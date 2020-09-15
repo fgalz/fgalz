@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/74/74906.svg" />]
