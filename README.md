@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter" alt="Hits">
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/74/74906.svg" />]
