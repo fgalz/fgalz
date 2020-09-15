@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+25 years old leisure time developer studying computer science. Enthusiast of development and technology • Creator and developer of @galzdev
+
 <!--
 **fgalz/fgalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
