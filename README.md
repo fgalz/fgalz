@@ -8,5 +8,7 @@
 
 <p align="center">
 <a href="https://twitter.com/floriangalz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="floriangalz" height="30" width="30" /></a>
-<a href="https://instagram.com/floriangalz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="floriangalz" height="30" width="30" /></a>
+<a href="https://instagram.com/floriangalz" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174855.svg" alt="floriangalz" height="30" width="30" /></a>
 </p>
+
+
