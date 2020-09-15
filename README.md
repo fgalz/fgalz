@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ffgalz)
+![Visitors](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Ffgalz)
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/74/74906.svg" />]
