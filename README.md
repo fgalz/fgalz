@@ -8,7 +8,7 @@
 
 <p align="left">
 <a href="https://twitter.com/floriangalz" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/185/185961.svg" alt="floriangalz" height="30" width="30" /></a>
-<a href="https://instagram.com/floriangalz" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/185/185983.svg" alt="floriangalz" height="30" width="30" /></a>
+<a href="https://instagram.com/floriangalz" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/185/185985.svg" alt="floriangalz" height="30" width="30" /></a>
 <a href="https://twitter.com/floriangalz" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/185/185961.svg" alt="floriangalz" height="30" width="30" /></a>
 <a href="https://instagram.com/floriangalz" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/185/185983.svg" alt="floriangalz" height="30" width="30" /></a>
 </p>
