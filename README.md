@@ -4,3 +4,5 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=fgalz" alt="fgalz"/> </p>
 
 ---------------------------------------------------------------
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<fgalz>&theme=<dracula>" />
