@@ -20,5 +20,5 @@ SOCIAL  :   TWITTER YOUTUBE DISCORD<br>
 
 📊 🇸 🇹 🇦 🇹 🇸<br>
 <b>──────────────────────────────────────────────────────────────</b><br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=fgalz" alt="fgalz"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=fgalz" alt="fgalz"/> </p>
 <br><br>
