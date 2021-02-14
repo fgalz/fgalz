@@ -11,7 +11,7 @@
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt<br> ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo <br>dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit <br>amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor <br>invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam <br>et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.<br><br>
 <b>▸ OptimizedOS</b><br>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt<br> ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo <br>dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit <br>amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor <br>invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam <br>et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est.<br><br>
-<br><br>
+<br>
 
 🔗 🇱​​​​​🇮​​​​​🇳​​​​​🇰​​​​​🇸​​​​​ & 🇸​​​​​🇴​​​​​🇨​​​​​🇮​​​​​🇦​​​​​🇱​​​​​<br>
 <b>──────────────────────────────────────────────────────────────</b><br>
