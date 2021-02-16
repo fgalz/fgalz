@@ -20,6 +20,6 @@ SOCIAL  :   TWITTER YOUTUBE DISCORD<br>
 <br><br>
 
 📊 🇸 🇹 🇦 🇹 🇸<br>
-<b⁭>───────────────/b><br>
+<b⁭>───────────────</b><br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fgalz" alt="fgalz"/> </p>
 <br><br>
