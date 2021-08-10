@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 <!--
-**fgalz/fgalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fgalz/fgalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
+<a href="https://github.com/jstrieb/github-stats">
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=angristan&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&theme=buefy" width=460 height=180>
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 
+</a>
